@@ -1,0 +1,6 @@
+---
+title: "eda"
+author: "Nelson Gaillard"
+date: "2025-10-02"
+output: html_document
+---
